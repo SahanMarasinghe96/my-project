@@ -1,4 +1,4 @@
-
+print("..............................................")
 residentArr = [10,3,2,5,7,1]
 
 copyResidentArr = residentArr.copy()
