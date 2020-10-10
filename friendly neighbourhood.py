@@ -22,7 +22,7 @@ for n in copyResidentArr:
 
 print(total)
 
-        
+print(".............End........................")       
     
         
 
